@@ -154,11 +154,5 @@ If you think the roadmap can be improved, please do open a PR with any updates a
 - Discuss ideas in issues
 - Spread the word
 
-## License
-
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
 ## Authors
-
-- [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO at [3MD](https://3mdinc.com).
-- [Romano Roth](https://romanoroth.com) - Chief of DevOps at [Zühlke](https://www.zuehlke.com/en).
+- [Sumon Paul](https://skpaul.info) 
